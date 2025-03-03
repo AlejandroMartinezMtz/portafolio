@@ -479,12 +479,8 @@ span{
     }
 
     .portfolio-item{
-        width: calc(90%/2);
-        
-    }
+        width: calc(90%);
 
-    .portfolio-item:nth-child(odd):last-child {
-        width: 98%;
     }
 
     .portfolio-item h4{
